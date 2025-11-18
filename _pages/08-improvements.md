@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Improvements
-permalink: improvements
+permalink: /improvements/
 ---
 
 # Improvements
