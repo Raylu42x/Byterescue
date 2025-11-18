@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Team
+permalink: /gallery/
 ---
 
-# Team
+# gallery
 
 (Content coming soon)
