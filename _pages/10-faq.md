@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Team
+title: FAQ
+permalink: /faq/
 ---
 
-# Team
+# FAQ
 
 (Content coming soon)
