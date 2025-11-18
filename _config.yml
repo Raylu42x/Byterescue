@@ -1,1 +1,9 @@
+title: ByteRescue
+description: "Moving archaeological data from old formats to the cloud"
+theme: minima
 
+# This is required so Jekyll processes the _pages folder
+collections:
+  pages:
+    output: true
+    permalink: /:name/
