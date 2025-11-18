@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prototype
-problem: prototype
+pemalink: prototype
 ---
 
 # Prototype
