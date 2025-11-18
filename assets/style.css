@@ -1,0 +1,39 @@
+/* Desktop nav */
+.nav-menu {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-toggle {
+  display: none;
+}
+
+/* Mobile hamburger */
+@media (max-width: 768px) {
+
+  .nav-toggle {
+    display: block;
+    font-size: 24px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+
+  .nav-menu {
+    position: fixed;
+    top: 0;
+    right: -260px;
+    width: 250px;
+    height: 100vh;
+    background: #fff;
+    flex-direction: column;
+    padding: 60px 20px;
+    gap: 20px;
+    transition: right 0.3s ease;
+    box-shadow: -3px 0 6px rgba(0,0,0,0.2);
+  }
+
+  .nav-menu.open {
+    right: 0;
+  }
+}
