@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Team
+title: Demo
+permalink: demo
 ---
 
-# Team
+# Demo
 
 (Content coming soon)
