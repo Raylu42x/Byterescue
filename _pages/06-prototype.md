@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Team
+title: Prototype
+problem: prototype
 ---
 
-# Team
+# Prototype
 
 (Content coming soon)
