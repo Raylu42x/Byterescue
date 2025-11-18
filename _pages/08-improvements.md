@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Team
+title: Improvements
+permalink: improvements
 ---
 
-# Team
+# Improvements
 
 (Content coming soon)
