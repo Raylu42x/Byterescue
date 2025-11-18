@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Demo
-permalink: demo
+permalink: /demo/
 ---
 
 # Demo
