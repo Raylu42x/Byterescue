@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Team
+title: Problem
+permalink: problem
 ---
 
-# Team
+# Problem
 
 (Content coming soon)
