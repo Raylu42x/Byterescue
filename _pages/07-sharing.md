@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Team
+title: Sharing
+permalink: sharing
 ---
 
-# Team
+# Sharing
 
 (Content coming soon)
