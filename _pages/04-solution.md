@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Team
+title: Solution
+permalink: solution
 ---
 
-# Team
+# Solution
 
 (Content coming soon)
