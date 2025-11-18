@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Solution
-permalink: solution
+permalink: /solution/
 ---
 
 # Solution
